@@ -16,5 +16,8 @@
   },
   "optionalDependencies": {
     "nodemon": "^3.1.7"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
   }
 }
