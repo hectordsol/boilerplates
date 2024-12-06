@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "nombre": "Noemi",
+      "apellido": "Luque",
+      "edad": 50,
+      "email": "niniluque@sumail.com",
+      "id": "150e"
+    },
+    {
+      "id": "b5a3",
+      "nombre": "Samara",
+      "apellido": "Rebolledo",
+      "edad": 15,
+      "email": "samirebo@mimail.com"
+    }
+  ]
+}
