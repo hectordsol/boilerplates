@@ -1,3 +1,4 @@
+### para iniciar base de datos json en consola: "json-server --watch ./config/db.json" puerto 3000
 GET http://localhost:3001/users HTTP/1.1
 ###
 GET http://localhost:3001/users/b5a HTTP/1.1
